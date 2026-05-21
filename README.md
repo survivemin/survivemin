@@ -4,7 +4,7 @@
 
 **SURVIVE MIN** is a short horror visual novel built around a very uncomfortable kind of closeness. It does not try to scare you by throwing noise at the screen every few seconds. Instead, it puts you in a quiet room with Min, gives you just enough time to read the mood, and then asks you to choose what to say next. That is where the tension comes from. The game feels small on purpose: one conversation, one person watching too carefully, and one player trying to keep things from sliding into something worse.
 
-You can play it directly in the browser at [survivemin.org](https://survivemin.org). No desktop install is needed, which makes the game easy to try when you want a focused, late-night horror session. It works best when you slow down, read every line, and let the pauses do their job.
+You can play it directly in the browser at [SURVIVE MIN](https://survivemin.org "SURVIVE MIN"). No desktop install is needed, which makes the game easy to try when you want a focused, late-night horror session. It works best when you slow down, read every line, and let the pauses do their job.
 
 ![Min speaking in a dark bedroom scene](https://s.survivemin.org/games/survive-min/assets/screenshot-1.webp)
 
@@ -36,7 +36,7 @@ For a first run, do not chase the perfect route. Let your first answers be hones
 
 The replay value comes from suspicion. Once you have seen one outcome, you naturally start wondering what would happen if you had answered differently five minutes earlier. Maybe you should have comforted Min. Maybe you should have held back. Maybe you should have noticed that one line was not really a joke. SURVIVE MIN makes those questions stick because the choices are tied to mood rather than obvious game logic.
 
-This is also why the browser page is useful. You can open [survivemin.org](https://survivemin.org), replay a branch, check a scene, and compare choices without digging through files or reinstalling anything. The game benefits from that immediacy. One click, one dark room, one conversation waiting to go wrong.
+This is also why the browser page is useful. You can open [SURVIVE MIN Onlnie](https://survivemin.org "SURVIVE MIN Online"), replay a branch, check a scene, and compare choices without digging through files or reinstalling anything. The game benefits from that immediacy. One click, one dark room, one conversation waiting to go wrong.
 
 ![A late night scene in SURVIVE MIN](https://s.survivemin.org/games/survive-min/assets/screenshot-5.webp)
 
